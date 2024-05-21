@@ -1,0 +1,49 @@
+* {
+	font-family: "Montserrat", sans-serif;
+}
+body{
+	background-color: #DDD0C8;
+}
+#welcome .home1 {
+	margin-top: 50px;
+}
+#welcome .home1 h1{
+	font-size: 50px;
+	margin-top: 50px;
+	font-weight: bold;
+}
+#welcome .home1 h1 span{
+	color: #b49f91	;
+}
+.gallery1{
+	font-size: 60px;
+	margin-top: 50px;
+	border-bottom: solid #b49f91;
+}
+#gallerys img{
+	border:solid black;
+}
+.blogs-t{
+	font-size: 60px;
+	margin-top: 50px;
+	border-bottom: solid #b49f91;
+	margin-bottom: 30px;
+}
+.card {
+	background-color: #b49f91da;
+}
+.info{
+	margin-top: 100px;
+}
+
+
+.end {
+	display: flex;
+	justify-content: center;
+	padding: 15px;
+	color: #000;
+}
+.end span{
+    color:#000000A6;
+    margin-left: 10px;
+}

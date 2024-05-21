@@ -1,0 +1,22 @@
+
+  body{
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.display-4 {
+    color: #000000A6;
+}
+.aim {
+    background-color:  #DDD0C8;
+}
+.aboutus {
+    background-color:  #DDD0C8;
+}
+#homell {
+    font-weight: bold;
+}

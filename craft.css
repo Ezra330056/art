@@ -1,0 +1,21 @@
+body{
+	background-color: #DDD0C8;
+}
+.nav-pills {
+	background-color:#DDD0C8;
+}
+.nav-pills li a {
+	color: black;
+}
+.nav-pills li a:hover {
+	background-color: #b49f91;
+	color: black;
+} 
+.nav-pills .nav-item .nav-link{
+	background-color: rgb(156, 128, 106);
+	border-radius: 0;
+}
+.layout {
+	position:sticky;
+	top:0;
+}
